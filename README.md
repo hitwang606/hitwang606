@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitwang606)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitwang606)-->
 
+![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
+
 
 
 
