@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my Ph.D. at Harbin Institute of Technology, Shenzhen.
 - 🌱 I’m currently learning quadrotor planning and control.
-- - 💬 My contact information: yiming_hit@163.com
+- 💬 My contact information: yiming_hit@163.com
+
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
+<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitwang606)
