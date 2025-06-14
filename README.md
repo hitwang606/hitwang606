@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning quadrotor planning and control.
 - 💬 My contact information: yiming_hit@163.com
 
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" height="20"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="20"/>  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"  height="20"/>   <img src="https://img.shields.io/badge/MATLAB-FF452F?style=flat-square&logo=Mathworks&logoColor=white" height="20"/>  
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitwang606)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitwang606)
 
