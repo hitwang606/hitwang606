@@ -20,12 +20,9 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" height="20"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="20"/>  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="20"/>  <img src="https://img.shields.io/badge/MATLAB-FF452F?style=flat-square&logo=Mathworks&logoColor=white" height="20"/>  
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitwang606)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitwang606)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitwang606)
--->
 
-<div style="display: flex; flex-wrap: wrap;">
-    <img style="height: 170px; width: auto;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiwang606&show_icons=true&locale=en&layout=compact" alt="hiwang606" />
-    <img style="height: 170px; width: auto;" align="right" src="https://github-readme-stats.vercel.app/api?username=hiwang606&rank_icon=github" alt="hiwang606" />
-</div>
+
+
 
