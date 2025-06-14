@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning quadrotor planning and control.
 - 💬 My contact information: yiming_hit@163.com
 
-<h3 align="center">:shipit: GitHub stats :shipit:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitwang606&show_icons=true&theme=dark" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitwang606)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitwang606)
 
-<br>
-<h3 align="center">:books: Most used language :books:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitwang606&layout=compact&theme=dark" />
-</p>
-<br>
