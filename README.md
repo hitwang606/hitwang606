@@ -23,11 +23,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitwang606)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitwang606)-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hitwang606/hitwang606/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hitwang606/hitwang606/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hitwang606/hitwang606/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 
 
